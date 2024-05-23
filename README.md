@@ -1,2 +1,2 @@
-# React-For-Beginner-
+# React Web series
 React Project series 
